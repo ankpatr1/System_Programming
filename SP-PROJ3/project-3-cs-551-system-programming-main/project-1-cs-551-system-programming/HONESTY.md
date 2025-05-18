@@ -1,0 +1,4 @@
+We have done this assignment completely on our own. We have not copied it, nor have we given my solution to anyone else. We understand that if we are involved in plagiarism or cheating, we will have to sign an official form that we have cheated and that this form will be stored in my official university record. We also understand that we will receive a grade of 0 for the involved assignment and our grade will be reduced by one level (e.g., from A to B) for our offense, and that we will receive a grade of ‘F’ for the course in the case of egregious examples or any additional offense of any kind.
+
+- Ankita Patra
+- Himanshu Nautiyal
