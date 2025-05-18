@@ -1,0 +1,13 @@
+[package]
+name = "hashassin"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+hashassin_core = { path = "../core" }
+hashassin_client = { path = "../client" }
+hashassin_server = { path = "../server" }
+tracing = "0.1"
+tracing-subscriber = "0.3"
+tokio = { version = "1", features = ["full"] } 

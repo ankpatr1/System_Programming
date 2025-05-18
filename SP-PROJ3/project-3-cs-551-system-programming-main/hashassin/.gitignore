@@ -1,0 +1,17 @@
+# Ignore OS/metadata files
+.DS_Store
+*.swp
+*.swo
+
+# Ignore Cargo build artifacts
+/target/
+**/*.rs.bk
+
+# IDE
+.vscode/
+.idea/
+
+# Cargo logs and dependency info
+Cargo.lock
+.cargo/
+
